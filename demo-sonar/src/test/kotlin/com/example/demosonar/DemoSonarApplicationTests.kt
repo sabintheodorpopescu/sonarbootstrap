@@ -1,10 +1,10 @@
-package com.example.altproiect
+package com.example.demosonar
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest
 
 @SpringBootTest
-class AltProiectApplicationTests {
+class DemoSonarApplicationTests {
 
 	@Test
 	fun contextLoads() {
