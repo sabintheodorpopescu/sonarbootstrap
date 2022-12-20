@@ -1,11 +1,11 @@
-package com.example.sonarbootstrap
+package com.example.altproiect
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
 @SpringBootApplication
-class SonarBootstrapApplication
+class AltProiectApplication
 
 fun main(args: Array<String>) {
-	runApplication<SonarBootstrapApplication>(*args)
+	runApplication<AltProiectApplication>(*args)
 }
